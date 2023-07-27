@@ -52,7 +52,7 @@ function generatePassword(){
 let password = "";
 
   
-let passwordLength = prompt("how long do you want your password to be?")
+let passwordLength = prompt("how long do you want your password to be? No more than 128 and No less than 8")
   
   for (let i = 0; i < passwordLength; i++) {
     let generatedLetterIndex = Math.floor(Math.random()*builtArray.length)
