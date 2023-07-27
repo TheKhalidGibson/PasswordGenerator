@@ -22,3 +22,7 @@ USER selects what will preferably be included
 THEN a length between 8 to 128 characters will be chosen
 WHEN all prompts are answered 
 THEN a randomly generated password will be displayed that matches the criteria selected
+
+### ScreenShot
+
+https://drive.google.com/file/d/1c-aiwTqg1aUN2dk-QsnogdDur8q5gL-N/view?usp=drive_link
